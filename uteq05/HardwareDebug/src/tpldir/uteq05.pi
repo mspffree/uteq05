@@ -1,0 +1,13 @@
+-We=--template_info_file="D:\ReposUTEQ05\uteq05\HardwareDebug\src\tpldir\uteq05.ti"
+-We=--ii_file="D:\ReposUTEQ05\uteq05\HardwareDebug\src\tpldir\uteq05.ii"
+-We=--tentative_info_file="D:\ReposUTEQ05\uteq05\HardwareDebug\src\tpldir\uteq05.td"
+
+-output=obj="D:\ReposUTEQ05\uteq05\HardwareDebug\src\uteq05.obj"
+-lang=cpp
+-include=C:\PROGRA~2\Renesas\RX\2_3_0/include
+-debug
+-isa=rxv1
+-nofpu
+-nologo
+-define=__RX
+"../src/uteq05.cpp"
